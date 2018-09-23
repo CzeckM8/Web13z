@@ -3,6 +3,11 @@
   padding: 0;
 }
 p {
-  font-family: arial;
+  font-family: cursive;
   font-size: 18px;
+}
+#heading{
+  text-align: center;
+  font-size: 60px;
+  letter-spacing: 4px;
 }
